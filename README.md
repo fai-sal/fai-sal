@@ -56,7 +56,7 @@ As a software engineer, I have been working with different libraries and framewo
 - 🚀 I’m currently learning Vue.js and Angular.js
 - 💬 Ask me about anything, I am happy to help
 - ⚡ I love to travel and try different types of foods
-- 😸 I am a cat person, on leisure love to spend time with them 😎
+- 😸 I am a cat person, on leisure love to play time with them 😎
 - 📫 How to reach me: faisalcse29@gmail.com
 
 

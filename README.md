@@ -28,6 +28,7 @@ As a software engineer, I have been working with different libraries and framewo
  **TechCare, Bangladesh** —  Intern <br>
 `March 2018 - June 2018`
 <br>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Technical Skills
 <table>
@@ -54,6 +55,7 @@ As a software engineer, I have been working with different libraries and framewo
 - 👨🏻‍💻 I’m currently working on something cool
 - 🚀 I’m currently learning Vue.js and Angular.js
 - 💬 Ask me about anything, I am happy to help
+- ⚡ I love to travel and try different types of foods
 - 😸 I am a cat person, on leisure love to spend time with them 😎
 - 📫 How to reach me: faisalcse29@gmail.com
 

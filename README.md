@@ -1,7 +1,7 @@
 ### Hi there, I'm <a href="#" target="_blank"> Faisal Ahmed</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-ahmed29/) 
-[![Medium](https://img.shields.io/badge/%20-Medium-black?color=14171A&labelColor=000&logo=medium&logoColor=fff)](https://www.linkedin.com/in/faisal-ahmed29/) 
+[![Medium](https://img.shields.io/badge/%20-Medium-black?color=14171A&labelColor=000&logo=medium&logoColor=fff)](https://medium.com/@faisalcse29) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Facebook-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/Faisal.Ahmed.029) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/faisal.__.ahmed/)
 [![Gmail](https://img.shields.io/badge/%20-@Email-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:faisalcse29@gmail.com) 

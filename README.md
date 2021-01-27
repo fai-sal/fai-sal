@@ -25,7 +25,7 @@ As a software engineer, I have been working with different libraries and framewo
 `July 2018 - Nov 2018`
 <br>
 
- **TechCare, Bangladesh** —  Intern <br>
+ **TechCare, Bangladesh** — Web Development Intern <br>
 `March 2018 - June 2018`
 <br>
 <br/><br/><br/><br/>

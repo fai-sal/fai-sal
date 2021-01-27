@@ -1,15 +1,35 @@
-# Faisal Ahmed
+### Hi there, I'm <a href="#" target="_blank"> Faisal Ahmed</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-ahmed29/) 
+[![Medium](https://img.shields.io/badge/%20-Medium-black?color=14171A&labelColor=000&logo=medium&logoColor=fff)](https://www.linkedin.com/in/faisal-ahmed29/) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Facebook-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/Faisal.Ahmed.029) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/faisal.__.ahmed/)
+[![Gmail](https://img.shields.io/badge/%20-@Email-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:faisalcse29@gmail.com) 
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fai-sal.fai-sal)
+
+I am a graduate of **Computer Science**.
+
+As a software engineer, I have been working with different libraries and frameworks of JavaScript for last three years. As per my current job responsibilites, I spend most of my professional working hours with **React.js**.
 
 
-### Hi there 👋
+<img align="right" alt="GIF" src="https://github.com/fai-sal/fai-sal/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-- 🔭 I’m currently working in JoomShaper with **Reactjs**
-- 🌱 I’m currently learning **Vue.js**, **Machine Learning**
-- 👯 I’m looking to collaborate on JavaScript related tech
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
+### WORK EXPERIENCE
 
-## Technical Skills
+**JoomShaper, Bangladesh** — Web Application Developer <br>
+`Dec 2018 - Present`
+<br>
+
+ **TechCare, Bangladesh** —  Backend Engineer <br>
+`July 2018 - Nov 2018`
+<br>
+
+ **TechCare, Bangladesh** —  Intern <br>
+`March 2018 - June 2018`
+<br>
+
+### Technical Skills
 <table>
     <tr>
         <td>Programming Languages</td>
@@ -29,14 +49,17 @@
     </tr>
 </table>
 
-## Education
-2013-2017 &emsp; Bachelor of Science in  **Computer Science & Engineering**  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Rajshahi University of Engineering & Technology, Bangladesh.
+### Talking about Personal Stuffs:
 
- ### Find me on: 
- [![LinkedIn Connect](https://img.shields.io/badge/%20-Linkedin-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/faisal-ahmed29/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Facebook-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/Faisal.Ahmed.029) 
-[![Medium](https://img.shields.io/badge/%20-Medium-black?color=14171A&labelColor=000&logo=medium&logoColor=fff)](https://www.linkedin.com/in/faisal-ahmed29/) 
+- 👨🏻‍💻 I’m currently working on something cool
+- 🚀 I’m currently learning Vue.js and Angular.js
+- 💬 Ask me about anything, I am happy to help
+- 😸 I am a cat person, on leisure love to spend time with them 😎
+- 📫 How to reach me: faisalcse29@gmail.com
 
- ### Reach me : 
-- [![Email Address](https://img.shields.io/badge/%20-@Email-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:faisalcse29@gmail.com)&emsp; a
+
+📈 **My GitHub Stats:**
+
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fai-sal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>

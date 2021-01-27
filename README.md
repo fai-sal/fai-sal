@@ -28,7 +28,7 @@ As a software engineer, I have been working with different libraries and framewo
  **TechCare, Bangladesh** —  Intern <br>
 `March 2018 - June 2018`
 <br>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 ### Technical Skills
 <table>

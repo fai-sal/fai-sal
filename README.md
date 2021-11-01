@@ -10,14 +10,18 @@
 
 I am a graduate of **Computer Science**.
 
-As a software engineer, I have been working with different libraries and frameworks of JavaScript for over three years. I have spent I spend most of my professional working hours with **React.js**, right now I am working with **Vue.js**
+As a software engineer, I have been working with different libraries and frameworks of JavaScript for over three years. I have spent I spend most of my professional working hours with **React.js**
 
 <img align="right" alt="GIF" src="https://github.com/fai-sal/fai-sal/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 ### WORK EXPERIENCE
 
+**Senior React Engineer** — rtCamp <br>
+`November 2021 - Present`
+<br>
+
 **Senior Software Engineer (JavaScript)** — Sender.net, Lithuania <br>
-`August 2021 - Present`
+`August 2021 - November 2021`
 <br>
 
 **Web Application Developer** — Themeum, Bangladesh <br>

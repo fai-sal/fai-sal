@@ -10,47 +10,44 @@
 
 I am a graduate of **Computer Science**.
 
-As a software engineer, I have been working with different libraries and frameworks of JavaScript for over three years. I have spent I spend most of my professional working hours with **React.js**
+As a software engineer, I have been working with different libraries and frameworks of JavaScript for over **five years**. I have spent I spend most of my professional working hours with **React.js**
 
 <img align="right" alt="GIF" src="https://github.com/fai-sal/fai-sal/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 ### WORK EXPERIENCE
 
-**Senior React Engineer** — rtCamp <br>
+**rtCamp - Senior React Engineer**<br>
 `November 2021 - Present`
 <br>
 
-**Senior Software Engineer (JavaScript)** — Sender.net, Lithuania <br>
+**The Code Company - Senior React Engineer**<br>
+`February 2022 - March 2023`
+<br>
+
+**Sender.net - Senior JavaScript** <br>
 `August 2021 - November 2021`
 <br>
 
-**Web Application Developer** — Themeum, Bangladesh <br>
+**JavaScript Engineer - Themeum** <br>
 `Dec 2018 - August 2021`
 <br>
 
-**Front-end Engineer** — TechCare, Bangladesh<br>
-`July 2018 - Nov 2018`
+**Front-end Engineer - TechCare**<br>
+`March 2018 - Nov 2018`
 <br>
 
-**Web Development Intern** — TechCare, Bangladesh <br>
-`March 2018 - June 2018`
-<br>
-<br/><br/><br/><br/>
+<br/><br/>
 
 ### Technical Skills
 
 <table>
     <tr>
         <td>Programming Languages</td>
-        <td>JavaScript, Python, Java, HTML5, CSS</td>
+        <td>JavaScript, TypeScript, Python, Java, HTML5, CSS</td>
     </tr>
     <tr>
-        <td>Frameworks</td>
-        <td>Vue.js, Express.js, Bootstrap</td>
-    </tr>
-    <tr>
-        <td>Libraries</td>
-        <td>React.js, Enzyme, Redux, Reactstrap, mongoose, jQuery</td>
+        <td>Frameworks & Libraries</td>
+        <td>React.js, Gutenberg, Vue.js, Next.js, React Native, Redux, Redux Toolkit, jQuery, Enzyme, Sass, Tailwind CSS</td>
     </tr>
     <tr>
         <td>Database</td>
@@ -60,9 +57,8 @@ As a software engineer, I have been working with different libraries and framewo
 
 ### Talking about Personal Stuffs:
 
-<!-- - 👨🏻‍💻 I’m currently working on something cool -->
 
-- 🚀 I’m currently learning Vue.js & TypeScript
+- 🚀 I’m currently exploring Next.js & TypeScript
 - 💬 Ask me about anything, I am happy to help
 - ⚡ I love to travel and try different types of foods
 - 😸 I am a cat person, on leisure I love to play time with them 😎

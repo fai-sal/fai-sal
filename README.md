@@ -43,7 +43,7 @@ As a software engineer, I have been working with different libraries and framewo
 <table>
     <tr>
         <td>Programming Languages</td>
-        <td>JavaScript, TypeScript, Python, Java, HTML5, CSS</td>
+        <td>JavaScript, TypeScript, PHP, Python, Java, HTML5, CSS</td>
     </tr>
     <tr>
         <td>Frameworks & Libraries</td>
@@ -63,10 +63,3 @@ As a software engineer, I have been working with different libraries and framewo
 - ⚡ I love to travel and try different types of foods
 - 😸 I am a cat person, on leisure I love to play time with them 😎
 - 📫 How to reach me: faisalcse29@gmail.com
-
-📈 **My GitHub Stats:**
-
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fai-sal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fai-sal&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>

@@ -17,7 +17,7 @@ As a software engineer, I have been working with different libraries and framewo
 ### WORK EXPERIENCE
 
 **rtCamp - Senior React Engineer**<br>
-`November 2021 - Present`
+`November 2021 - Feb 2024`
 <br>
 
 **The Code Company - Senior React Engineer**<br>

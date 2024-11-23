@@ -2,29 +2,31 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-ahmed29/)
 [![Medium](https://img.shields.io/badge/%20-Medium-black?color=14171A&labelColor=000&logo=medium&logoColor=fff)](https://medium.com/@faisalcse29)
-[![Facebook Follow](https://img.shields.io/badge/%20-Facebook-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/Faisal.Ahmed.029)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/faisal.__.ahmed/)
 [![Gmail](https://img.shields.io/badge/%20-@Email-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:faisalcse29@gmail.com)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fai-sal.fai-sal)
 
-I am a graduate of **Computer Science**.
-
-As a software engineer, I have been working with different libraries and frameworks of JavaScript for over **five years**. I have spent I spend most of my professional working hours with **React.js**
+- Graduate of **Computer Science**.
+- 4+ years of professional experience in WordPress VIP and Backend
+- 5+ years of professional experience working in JavaScript and Frontend development
 
 <img align="right" alt="GIF" src="https://github.com/fai-sal/fai-sal/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 ### WORK EXPERIENCE
 
+**Quantenwerft GmbH - Senior Software Engineer**<br>
+`April 2024 - Present`
+<br>
+
 **rtCamp - Senior React Engineer**<br>
-`November 2021 - Feb 2024`
+`November 2021 - February 2024`
 <br>
 
 **The Code Company - Senior React Engineer**<br>
 `February 2022 - March 2023`
 <br>
 
-**Sender.net - Senior JavaScript** <br>
+**Sender.net - Senior JavaScript Developer** <br>
 `August 2021 - November 2021`
 <br>
 
@@ -52,6 +54,10 @@ As a software engineer, I have been working with different libraries and framewo
     <tr>
         <td>Database</td>
         <td>MySQL, MongoDB</td>
+    </tr>
+    <tr>
+        <td>CMS</td>
+        <td>WordPress</td>
     </tr>
 </table>
 

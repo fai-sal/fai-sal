@@ -1,12 +1,11 @@
-### Hi there, I'm <a href="#" target="_blank"> Faisal Ahmed</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm <a href="#" target="_blank"> Faisal Ahmed</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-ahmed29/)
 [![Medium](https://img.shields.io/badge/%20-Medium-black?color=14171A&labelColor=000&logo=medium&logoColor=fff)](https://medium.com/@faisalcse29)
 [![Gmail](https://img.shields.io/badge/%20-@Email-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:faisalcse29@gmail.com)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fai-sal.fai-sal)
+### Glad to see you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=fai-sal.fai-sal)
 
-- Graduate of **Computer Science**.
 - 4+ years of professional experience in WordPress VIP and Backend
 - 5+ years of professional experience working in JavaScript and Frontend development
 
@@ -61,11 +60,7 @@
     </tr>
 </table>
 
-### Talking about Personal Stuffs:
+### Personal Stuffs:
 
-
-- 🚀 I’m currently exploring Next.js & TypeScript
-- 💬 Ask me about anything, I am happy to help
-- ⚡ I love to travel and try different types of foods
-- 😸 I am a cat person, on leisure I love to play time with them 😎
+- ⚡ I love to cook and try different types of foods
 - 📫 How to reach me: faisalcse29@gmail.com
